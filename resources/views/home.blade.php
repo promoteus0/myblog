@@ -17,7 +17,7 @@
 </head>
 
 <body class="font-sans antialiased">
-    <div class="">
+    <div class="bg-gray-100">
         @include('layouts.navLogin')
         @include('layouts.homecontent')
         @include('layouts.footer')

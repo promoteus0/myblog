@@ -1,5 +1,5 @@
 
-<div class="px-6 py-6 mx-auto max-w-7xl lg:px-8 ">
+<div class="px-6 py-6 mx-auto bg-white max-w-7xl lg:px-8">
       
   <div class="max-w-2xl mx-auto lg:mx-0">
     <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Welcome To My Blog</h2>
