@@ -50,4 +50,8 @@ class User extends Authenticatable
     public function aktifitas(){
         $this->hasMany(Aktifitas::class,'user_id');
     }
+
+    public function artikel(){
+        $this->hasMany(Artikel::class,'user_id');
+    }
 }
